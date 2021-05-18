@@ -1,0 +1,7 @@
+/node_modules
+
+# webhook配置
+webhook.js
+
+# fstp
+/.vscode/sftp.json

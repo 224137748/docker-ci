@@ -1,0 +1,25 @@
+{
+  "name": "docker-ci",
+  "version": "1.0.0",
+  "description": "docker-ci自动部署实例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/224137748/docker-ci.git"
+  },
+  "keywords": [
+    "docker-compose"
+  ],
+  "author": "zjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/224137748/docker-ci/issues"
+  },
+  "homepage": "https://github.com/224137748/docker-ci#readme",
+  "dependencies": {
+    "git-webhook-handler": "^1.0.6"
+  }
+}
